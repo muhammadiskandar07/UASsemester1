@@ -228,3 +228,28 @@ while True:
         print("Input yang dimasukan salah")
         input("Tekan Enter untuk ke Menu Utama. . .")
 ```
+**Output:**
+
+<p>Tambah data<p>
+
+![3](screenshot/ss3.png)
+
+<p>Ubah data<p>
+
+![4](screenshot/ss4.png)
+
+<p>Cari data<p>
+<p>Hapus data<p>
+
+![5](screenshot/ss5.png)
+
+<p>Hapus data<p>
+<p>Cari data<p>
+
+![6](screenshot/ss6.png)
+
+<p>Menampilkan atau cetak<p>
+
+![7](screenshot/ss7.png)
+
+## TERIMA KASIH
